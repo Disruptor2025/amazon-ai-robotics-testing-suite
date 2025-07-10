@@ -4,9 +4,10 @@
 
 ### **Project Title**
 **Amazon AI & Robotics Testing Suite** | *Personal Project* | *2024*
+**GitHub**: https://github.com/Disruptor2025/amazon-ai-robotics-testing-suite
 
 ### **Project Description (2-3 sentences)**
-Developed a comprehensive automated testing framework for Amazon AI and robotics applications using Python, Linux bash scripting, and AWS cloud services. Implemented AI model validation, performance benchmarking, drift detection, and robotics simulation testing with 95%+ test coverage and real-time monitoring capabilities.
+Developed a comprehensive automated testing framework for Amazon AI and robotics applications using Python, Linux bash scripting, and AWS cloud services. Implemented AI model validation, performance benchmarking, drift detection, and robotics simulation testing with 95%+ test coverage and real-time monitoring capabilities. Built scalable cloud infrastructure integrating 6+ AWS services with automated CI/CD pipelines and comprehensive documentation.
 
 ### **Key Technologies & Skills Demonstrated**
 - **Programming**: Python 3.9+, Bash/Shell scripting, TypeScript
